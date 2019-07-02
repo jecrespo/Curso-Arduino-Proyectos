@@ -1,4 +1,4 @@
 # Curso-Arduino-Proyectos
 Repositorio Curso Arduino Proyectos
 
-![imagen](ejemplo fritzing/contador pulsos_bb.png)
+![imagen](/ejemplo%20fritzing/contador%20pulsos_bb.png)
