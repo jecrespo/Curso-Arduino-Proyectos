@@ -35,7 +35,7 @@ void setup() {
 
 void loop() {
   const uint16_t port = 80;
-  const char * host = "217.76.132.240"; // ip or dns
+  const char * host = "www.aprendiendoarduino.com"; // ip or dns
 
   Serial.print("connecting to ");
   Serial.println(host);
